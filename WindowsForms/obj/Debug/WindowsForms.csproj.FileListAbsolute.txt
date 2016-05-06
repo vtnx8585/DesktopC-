@@ -1,0 +1,12 @@
+c:\users\ragnarok\documents\visual studio 2015\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+c:\users\ragnarok\documents\visual studio 2015\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+c:\users\ragnarok\documents\visual studio 2015\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+c:\users\ragnarok\documents\visual studio 2015\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+c:\users\ragnarok\documents\visual studio 2015\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Estados.EstadosIndex.resources
+c:\users\ragnarok\documents\visual studio 2015\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+c:\users\ragnarok\documents\visual studio 2015\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+c:\users\ragnarok\documents\visual studio 2015\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+c:\users\ragnarok\documents\visual studio 2015\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+c:\users\ragnarok\documents\visual studio 2015\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+c:\users\ragnarok\documents\visual studio 2015\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Estados.EstadoCreate.resources
+c:\users\ragnarok\documents\visual studio 2015\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Estados.EstadoUpdate.resources
